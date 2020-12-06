@@ -1,0 +1,47 @@
+body {
+  background-color: #ebebeb;
+}
+
+p {
+  font-size: 20px;
+}
+#content {
+  margin: 200px auto;
+  height: 500px;
+  width: 900px;
+}
+#picture {
+  float: left;
+  margin: 10px 80px 10px 0px;
+  height: 500px;
+  width: 400px;
+  border: none;
+  box-shadow: 5px 5px 10px grey;
+}
+
+#message {
+  float: left;
+  text-align: center;
+  margin: 20px auto;
+  height: 200px;
+  width: 400px;
+  background-color: #63d27c;
+}
+
+#time {
+  float: left;
+  text-align: center;
+  margin: 20px auto;
+  height: 200px;
+  width: 400px;
+  background-color: #de1f1f;
+}
+
+#footer {
+  float: left;
+  height: 50px;
+  width: 900px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
